@@ -148,9 +148,13 @@ A clean presentation page explaining:
 ---
 
 ✔ Identify high-performing menu items
+
 ✔ Track sales performance over time
+
 ✔ Understand customer demand patterns
+
 ✔ Improve pricing and promotion strategy
+
 ✔ Support operational and staffing decisions
 
 ---
