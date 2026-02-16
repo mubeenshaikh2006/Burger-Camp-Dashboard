@@ -75,7 +75,7 @@ The data was cleaned and transformed directly inside Excel before visualization.
 
 ---
 
-# 1️⃣ Sales Dashboard
+***1️⃣ Sales Dashboard***
 
 ---
 
@@ -93,7 +93,7 @@ Helps quickly understand business growth and revenue flow.
 
 ---
 
-# 2️⃣ Products Analysis
+***2️⃣ Products Analysis***
 
 ---
 
@@ -113,7 +113,7 @@ Which items generate maximum profit
 
 ---
 
-# 3️⃣ Served By (Staff Insights)
+***3️⃣ Served By (Staff Insights)**
 
 ---
 
@@ -129,7 +129,7 @@ Helps evaluate service efficiency.
 
 ---
 
-# 4️⃣ About / Summary View
+***4️⃣ About / Summary View***
 
 ---
 
@@ -143,7 +143,7 @@ A clean presentation page explaining:
 
 ---
 
-📈 Key Insights You Can Derive
+***📈 Key Insights You Can Derive***
 
 ---
 
@@ -159,33 +159,33 @@ A clean presentation page explaining:
 
 ---
 
-# Sales Dashboard
+***Sales Dashboard**
 
 ---
 
-![Sales Dashboard](burger camp dashbord.png)
+![Sales Dashboard](dashbord1.png)
 
 ---
 
-# Products Analysis
+***Products Analysis***
 
 ---
 
-![Products Dashboard](burger camp products.png)
+![Products Dashboard](dashbord2.png)
 
 ---
 
-# Served By Analysis
+***Served By Analysis***
 
 ---
 
 
-![Served By Dashboard](burger camp waiter.png)
+![Served By Dashboard](dashbord3.png)
 
 ---
 
-Summary / About
+***Summary / About**
 
 ---
 
-![About Dashboard](burger camp about.png)
+![About Dashboard](dashbord4.png)
