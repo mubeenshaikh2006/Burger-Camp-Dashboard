@@ -15,17 +15,17 @@ It helps understand how sales, menu items, and staff activity impact overall bus
 
 ---
 
-1. The goal of this dashboard is to:
+The goal of this dashboard is to:
 
-2. Track Total Sales and Revenue
+1. Track Total Sales and Revenue
 
-3. Identify Top-Selling Products
+2. Identify Top-Selling Products
 
-4. Analyze Monthly and Yearly Sales Trends
+3. Analyze Monthly and Yearly Sales Trends
 
-5. Understand Order Distribution
+4. Understand Order Distribution
 
-6. Monitor Service Performance (Served By / Staff Insights)
+5. Monitor Service Performance (Served By / Staff Insights)
 
 This allows better decision-making for menu planning, sales strategy, and operations improvement.
 
